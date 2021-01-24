@@ -1,0 +1,32 @@
+p.center {
+  text-align: center;
+  color: red;
+}
+
+body {
+  background-color: green;
+}
+
+button {
+  width: 19%;
+  height: 5%;
+  background-color: powderblue;
+  border: 2px solid #121212;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+}
+
+#background_img {
+  object-fit: cover;
+}
+
+#countries_dropdown {
+  width: 19%;
+  height: 5%;
+  background-color: powderblue;
+  border: 2px solid #121212;
+  text-align-last: center;
+}

@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Richard Baltrusch
+	Contact: richard@baltrusch.net
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+	Language: English
+    Normalize.css, main.css

@@ -43,20 +43,10 @@ body {
   min-height: 100vh;
 }
 
-@property --footer-height {
-  syntax: "<relative-size>";
-  initial-value: 2.5rem;
-}
-
-#content-wrap {
-  padding-bottom: var(--footer-height);
-}
-
 footer {
   position: absolute;
   bottom: 2.5%;
   width: 100%;
-  height: var(--footer-height);
 }
 
 #content {
